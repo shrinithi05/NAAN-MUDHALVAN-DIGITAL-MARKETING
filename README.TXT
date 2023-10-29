@@ -2,7 +2,7 @@
 
 TEAM LEAD          :RAJALAKSHMI L       (NMID:BDB658D67A21852BDD9481A6B6EF3FC9 )    
 TEAM MEMBER 1      :SHRINITHI R         (NMID:79E3AC7F2B83FD187BD485CF73BA8C60 )
-TEAM MEMBER 2      :SURUTHI S           (NMID: )
+TEAM MEMBER 2      :SURUTHI S           (NMID:1CA035DEA137E778B724F2E63C9F5265 )
 TEAM MEMBER 3      :SHAKTHI SREE M A    (NMID: )
 -----------------------------------------------------------
 PROJECT TITLE      : Creating a Social Media Ad Campaign in Facebook
